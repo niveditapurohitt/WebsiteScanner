@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "websitescanner-production.up.railway.app"
+      "destination": "https://websitescanner-production.up.railway.app/$1"
     },
     {
       "source": "/(.*)",

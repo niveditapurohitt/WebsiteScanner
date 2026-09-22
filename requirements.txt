@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+aiohttp
+beautifulsoup4
+python-dotenv
+dnspython
+builtwith
+cachetools
+slowapi
+pydantic-settings
+google-genai
+motor
+pyjwt
+email-validator
